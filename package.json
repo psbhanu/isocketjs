@@ -1,0 +1,25 @@
+{
+  "name": "isocketjs",
+  "version": "1.0.0",
+  "description": "Node Socket Server Application Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psbhanu/isocketjs.git"
+  },
+  "keywords": [
+    "iSocket",
+    "psbhanu",
+    "iSocketJS",
+    "isocket.js"
+  ],
+  "author": "psbhanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psbhanu/isocketjs/issues"
+  },
+  "homepage": "https://github.com/psbhanu/isocketjs#readme"
+}
